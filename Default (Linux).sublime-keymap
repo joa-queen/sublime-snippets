@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+q", "ctrl+p"], "command": "exit" },
+	{ "keys": ["f2"], "command": "side_bar_rename" },
+	{ "keys": ["ctrl+f1"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+]

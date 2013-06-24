@@ -1,0 +1,30 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Case Conversion",
+		"DocBlockr",
+		"Doctrine Snippets",
+		"Emmet",
+		"Generate Password",
+		"Gist",
+		"Git",
+		"HTML5",
+		"Http Requester",
+		"jQuery",
+		"LESS",
+		"Less2Css",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"Twitter Bootstrap ClassNames Completions",
+		"Twitter Bootstrap Snippets"
+	]
+}

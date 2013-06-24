@@ -1,0 +1,194 @@
+<snippet>
+	<content><![CDATA[
+<?php
+
+use Sarasa\Core\CustomException;
+use Doctrine\ORM\Mapping;
+use Doctrine\ORM\EntityRepository;
+
+/**
+ * @Entity(repositoryClass="UserRepository") @Table(name="users")
+ **/
+class User
+{
+
+	/**
+     * @Id @GeneratedValue @Column(type="integer")
+     * @var int
+     **/
+    protected $id;
+
+    /**
+     * @Column(type="string", name="username", length=200, unique=false, nullable=false)
+     */
+    protected $username;
+
+    /**
+     * @Column(type="string", name="email", length=100, unique=true, nullable=false)
+     */
+    protected $email;
+
+    /**
+     * @Column(type="string", name="password", length=32, unique=false, nullable=false)
+     */
+    protected $password;
+
+    /**
+     * @Column(type="datetime", name="registeredat", nullable=false)
+     */
+    protected $registeredat;
+
+    /**
+     * @Column(type="datetime", name="lastlogin", nullable=true)
+     */
+    protected $lastlogin;
+    
+
+    /**
+     * Get id
+     *
+     * @return integer 
+     */
+    public function getId()
+    {
+        return $this->id;
+    }
+
+    /**
+     * Set username
+     *
+     * @param string $username
+     * @return User
+     */
+    public function setUsername($username)
+    {
+        if (strlen($username) < 5) throw new CustomException('El nombre es muy corto');
+        $this->username = $username;
+    
+        return $this;
+    }
+
+    /**
+     * Get username
+     *
+     * @return string 
+     */
+    public function getUsername()
+    {
+        return $this->username;
+    }
+
+    /**
+     * Set password
+     *
+     * @param string $password
+     * @return User
+     */
+    public function setPassword($password)
+    {
+        if (strlen($password) < 5) throw new CustomException('La contraseña es muy corta');
+        $this->password = md5($password);
+    
+        return $this;
+    }
+    /**
+     * Set email
+     *
+     * @param string $email
+     * @return User
+     */
+    public function setEmail($email)
+    {
+        if (strlen($email) < 5) throw new CustomException('El username es muy corto');
+        $this->email = $email;
+    
+        return $this;
+    }
+
+    /**
+     * Get email
+     *
+     * @return string 
+     */
+    public function getEmail()
+    {
+        return $this->email;
+    }
+
+    /**
+     * Set registeredat
+     *
+     * @param \DateTime $registeredat
+     * @return User
+     */
+    public function setRegisteredat($registeredat)
+    {
+        $this->registeredat = $registeredat;
+    
+        return $this;
+    }
+
+    /**
+     * Get registeredat
+     *
+     * @return \DateTime 
+     */
+    public function getRegisteredat()
+    {
+        return $this->registeredat;
+    }
+
+    /**
+     * Set lastlogin
+     *
+     * @param \DateTime $lastlogin
+     * @return User
+     */
+    public function setLastlogin($lastlogin)
+    {
+        $this->lastlogin = $lastlogin;
+    
+        return $this;
+    }
+
+    /**
+     * Get lastlogin
+     *
+     * @return \DateTime 
+     */
+    public function getLastlogin()
+    {
+        return $this->lastlogin;
+    }
+
+    public function logout()
+    {
+        unset($_SESSION['user']);
+    }
+}
+
+class UserRepository extends EntityRepository
+{
+
+    public function login($email, $password)
+    {
+        $qb = $this->_em->createQueryBuilder();
+        $qb->select('a')
+            ->from('User', 'a')
+            ->where($qb->expr()->andX(
+                $qb->expr()->eq('a.email',':email'),
+                $qb->expr()->eq('a.password',':password')
+            ))
+            ->setParameter('email', $email)
+            ->setParameter('password', md5($password));
+
+        $_SESSION['user'] = $qb->getQuery()->getSingleResult();
+    }
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>userclass</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

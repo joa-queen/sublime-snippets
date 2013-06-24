@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* aftersave: uglifyjs <self> -o ../../../../public/js/${1:Bundle}/${2:filename}.js */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>uglify</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.javascript</scope> -->
+</snippet>
