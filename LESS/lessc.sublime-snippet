@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-/* aftersave: uglifyjs <self> -mco ../../../../public/js/${1:Bundle}/${2:filename}.js */
+/* aftersave: lessc -x <self> > ../../../../public/css/${1:Bundle}/${2:file}.css */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>uglify</tabTrigger>
+	<tabTrigger>lessc</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.javascript</scope> -->
+	<!-- <scope>source.python</scope> -->
 </snippet>

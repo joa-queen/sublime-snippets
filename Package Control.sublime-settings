@@ -14,7 +14,6 @@
 		"Http Requester",
 		"jQuery",
 		"LESS",
-		"Less2Css",
 		"LiveReload",
 		"Nettuts+ Fetch",
 		"Package Control",
@@ -23,6 +22,8 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Tag",
+		"TagWrapper",
 		"Theme - Phoenix",
 		"Twitter Bootstrap ClassNames Completions",
 		"Twitter Bootstrap Snippets"

@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-/* aftersave: uglifyjs <self> -mco ../../../../public/js/${1:Bundle}/${2:filename}.js */
+box-shadow: inset 3px 8px 14px rgba(0, 0, 0, 0.45);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>uglify</tabTrigger>
+	<tabTrigger>hundido</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<!-- <scope>source.javascript</scope> -->
+	<!-- <scope>source.python</scope> -->
 </snippet>
