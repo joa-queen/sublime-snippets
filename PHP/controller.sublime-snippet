@@ -6,17 +6,17 @@ namespace ${1:Bundle}\Controllers;
 
 use Sarasa\Core\Template;
 
-class ${2:Main}Controller extends \Sarasa\Models\MainController {
-	
-	public function index()
-	{
-		\$em = \$this->getEntityManager();
-		\$template = new Template();
+class ${2:Main}Controller extends \Sarasa\Models\MainController
+{
 
-		\$template->title('${3:Home}');
-		\$template->display('${4:main}.tpl');
-	}
-	
+    public function index()
+    {
+        \$em = \$this->getEntityManager();
+        \$template = new Template();
+
+        \$template->title('${3:Home}');
+        \$template->display('${4:main}.tpl');
+    }
 }
 
 ]]></content>

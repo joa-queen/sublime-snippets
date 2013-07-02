@@ -1,0 +1,1644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"br",
+				"br	border-right"
+			],
+			[
+				"dlg",
+				"dlg_Chgpass_newpass"
+			],
+			[
+				"_nota",
+				"_notasperpage"
+			],
+			[
+				"_not",
+				"_notasfirstpage"
+			],
+			[
+				"categ",
+				"categorias"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"routi",
+				"routing_var"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"foreach",
+				"foreach	foreach"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"_",
+				"$_	GET['…']"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PHP/ajax-response-function.sublime-snippet",
+			"settings":
+			{
+				"buffer_size": 357,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sainstall",
+				"Sarasa Bundle Manager: Install Bundle"
+			],
+			[
+				"sainsta",
+				"Sarasa Bundle Manager: Install Bundle"
+			],
+			[
+				"insta",
+				"Sarasa Bundle Manager: Install Bundle"
+			],
+			[
+				"sarasa",
+				"Sarasa Bundle Manager: Install Bundle"
+			],
+			[
+				"sarasainstall",
+				"Sarasa Bundle Manager: Install Bundle"
+			],
+			[
+				"packagecontrollist",
+				"Package Control: List Packages"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"manytone",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrinemanyon",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrineonem",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"manyto",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"many",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrinmany",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrinmano",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"docst",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrinst",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrinestr",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrimany",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrinstr",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrineda",
+				"Snippet: Doctrine Date Property"
+			],
+			[
+				"doctrinedate",
+				"Snippet: Doctrine Date Property"
+			],
+			[
+				"doctrinedat",
+				"Snippet: Doctrine Date Property"
+			],
+			[
+				"doctrinedeci",
+				"Snippet: Doctrine Decimal Property"
+			],
+			[
+				"doctrineboo",
+				"Snippet: Doctrine Boolean Property"
+			],
+			[
+				"doctrindeci",
+				"Snippet: Doctrine Decimal Property"
+			],
+			[
+				"smart",
+				"Snippet: smarty"
+			],
+			[
+				"doctrinteg",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"doctrinetex",
+				"Snippet: Doctrine Text Property"
+			],
+			[
+				"doctrinint",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"doctrineinte",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"doctrinede",
+				"Snippet: Doctrine Decimal Property"
+			],
+			[
+				"doctrineint",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"docsti",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrines",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrinear",
+				"Snippet: Doctrine Array Property"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"doctrine",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctri",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"password",
+				"Generate secure password"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"syntphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"synt",
+				"Set Syntax: PHP"
+			],
+			[
+				"gistope",
+				"Gist: Open Gist"
+			],
+			[
+				"gist ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gistopn",
+				"Gist: Open Gist"
+			],
+			[
+				"gisto",
+				"Gist: Open Gist"
+			],
+			[
+				"prejso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"case",
+				"Convert Case: dot.case"
+			],
+			[
+				"pretyjs",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prety",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"preti",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"doctrinonetoman",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"doctrinemanytoon",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrine onetoman",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"dctrineoneman",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"syntaxhtm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"manytoone",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrindatet",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"doctrinmanyon",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrineonetomany",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"doctrineman",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"doctrinedateti",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"doctrindate",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"doctrinestri",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctristri",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"syntjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"gitstatu",
+				"Git: Status"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"oneone",
+				"Snippet: Doctrine One To One (Bi) inverse Association"
+			],
+			[
+				"onetomany",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"doctrnemanyto",
+				"Snippet: Doctrine Many To One Association"
+			],
+			[
+				"syntaxsm",
+				"Set Syntax: Smarty"
+			],
+			[
+				"syntahtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"doctrins",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrindatetim",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"doctrinite",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"doctriint",
+				"Snippet: Doctrine Integer Property"
+			],
+			[
+				"snippetcla",
+				"Snippet: new-sarasa-class"
+			],
+			[
+				"syntahtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"doctrindatim",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"snipen",
+				"Snippet: new-sarasa-class"
+			],
+			[
+				"onotoone",
+				"Snippet: Doctrine One To One (Uni) Association"
+			],
+			[
+				"doctrinoneoen",
+				"Snippet: Doctrine One To One (Uni) Association"
+			],
+			[
+				"doctrinstri",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrineone",
+				"Snippet: Doctrine One To Many Association"
+			],
+			[
+				"doctrin",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"doctrinetim",
+				"Snippet: Doctrine DateTime Property"
+			],
+			[
+				"doctrinestrin",
+				"Snippet: Doctrine String Property"
+			],
+			[
+				"syntaxcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"githead",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"gitcommit",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit history"
+			],
+			[
+				"gitcommitm",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"synthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"synpp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"snippetajax",
+				"Snippet: ajax"
+			],
+			[
+				"snippet ",
+				"Snippet: ajax"
+			],
+			[
+				"synjq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"Snippet: ajax-set",
+				"Snippet: ajax-set-parameters"
+			],
+			[
+				"syntaxjqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"fetchfi",
+				"Fetch: File"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"copytagst",
+				"File: Copy as Tag style"
+			],
+			[
+				"casedot",
+				"Convert Case: dot.case"
+			],
+			[
+				"titlecas",
+				"Convert Case: Title Case"
+			],
+			[
+				"casetit",
+				"Convert Case: Title Case"
+			],
+			[
+				"casepasc",
+				"Convert Case: PascalCase"
+			],
+			[
+				"camelc",
+				"Convert Case: camelCase"
+			],
+			[
+				"camelcase",
+				"Convert Case: camelCase"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"SublimeLinter: Save-Only Linting"
+			],
+			[
+				"fetchf",
+				"Fetch: File"
+			],
+			[
+				"fetchp",
+				"Fetch: Package"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"packinstall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 237.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/new-sarasa-class.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/user-class.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/entity-manager.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/controller.sublime-snippet",
+		"/opt/lampp/htdocs/syg/app/Facturas/Entity/Factura.php",
+		"/opt/lampp/htdocs/syg/app/Consejos/Entity/ConsejoLocal.php",
+		"/opt/lampp/htdocs/syg/app/Consejos/Controllers/MainController.php",
+		"/home/joaco/bin/composer.json",
+		"/home/joaco/.config/sublime-text-2/Packages/Sarasa Bundle Manager/Main.sublime-menu",
+		"/home/joaco/.config/sublime-text-2/Packages/Package Control/Default.sublime-commands",
+		"/home/joaco/.config/sublime-text-2/Packages/Sarasa Bundle Manager/https.py",
+		"/home/joaco/.config/sublime-text-2/Packages/Sarasa Bundle Manager/recipe-456195-1.py",
+		"/home/joaco/.config/sublime-text-2/Packages/sbm.py",
+		"/home/joaco/.config/sublime-text-2/Packages/Package Control/messages/1.3.0.txt",
+		"/home/joaco/Escritorio/Libramientos.json",
+		"/tmp/fz3temp-1/config.json",
+		"/opt/lampp/htdocs/syg/app/Libramientos/Entity/Libramiento.php",
+		"/opt/lampp/htdocs/syg/crons/getlibramientos.php",
+		"/tmp/fz3temp-1/config 2.json",
+		"/opt/lampp/htdocs/syg/app/layout.tpl",
+		"/opt/lampp/htdocs/syg/app/Users/Views/login.tpl",
+		"/opt/lampp/htdocs/syg/app/Users/Views/css/login.less",
+		"/opt/lampp/htdocs/syg/vendor/sarasa/core/models/Sarasa/Core/FrontController.php",
+		"/opt/lampp/htdocs/syg/composer.json",
+		"/opt/lampp/htdocs/syg/app/Users/Controllers/LoginController.php",
+		"/opt/lampp/htdocs/syg/routing.json",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Prestador.php",
+		"/opt/lampp/htdocs/syg/public/index.php",
+		"/opt/lampp/htdocs/syg/app/Home/Controllers/main.php",
+		"/home/joaco/.codeintel/codeintel.log",
+		"/opt/lampp/htdocs/syg/app/Home/Controllers/MainController.php",
+		"/opt/lampp/htdocs/Sarasa/app/Sarasa/Models/MainController.php",
+		"/opt/lampp/htdocs/syg/cli-config.php",
+		"/opt/lampp/htdocs/syg/app/Sarasa/Controllers/DebuggerController.php",
+		"/opt/lampp/htdocs/syg/app/Users/Controllers/login.php",
+		"/opt/lampp/htdocs/syg/app/Sarasa/Controllers/debugger.php",
+		"/opt/lampp/htdocs/syg/app/Consejos/Controllers/main.php",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Modalidad.php",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Pertenencia.php",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Tipo.php",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Servicio.php",
+		"/opt/lampp/htdocs/syg/app/Prestaciones/Entity/Establecimiento.php",
+		"/opt/lampp/htdocs/syg/app/Establecimientos/Entity/Establecimiento.php",
+		"/opt/lampp/htdocs/syg/app/Establecimientos/Entity/Servicio.php",
+		"/opt/lampp/htdocs/syg/app/Home/Views/main.tpl",
+		"/opt/lampp/htdocs/syg/app/Consejos/Views/main.tpl",
+		"/opt/lampp/htdocs/syg/app/Users/Entity/User.php",
+		"/opt/lampp/htdocs/syg/app/Consejos/Entity/Consejos/Entity/ConsejoLocal.php",
+		"/opt/lampp/htdocs/syg/app/Sarasa/Models/MainController.php",
+		"/opt/lampp/htdocs/syg/app/Users/Entity/UserRepository.php",
+		"/opt/lampp/htdocs/syg/app/Users/Views/js/login.js",
+		"/opt/lampp/htdocs/syg/vendor/sarasa/core/models/Sarasa/Core/Template.php",
+		"/opt/lampp/htdocs/syg/app/main.js",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/session-user.sublime-snippet",
+		"/opt/lampp/htdocs/syg/public/js/main.js",
+		"/opt/lampp/htdocs/syg/vendor/composer/autoload_namespaces.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Entity/PageRepository.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Entity/Page.php",
+		"/opt/lampp/htdocs/syg/app/Users/UserRepository.php",
+		"/opt/lampp/htdocs/syg/public/css/Users/main.css",
+		"/opt/lampp/htdocs/syg/public/css/Home/main.css",
+		"/opt/lampp/htdocs/syg/app/Users/Controllers/main.php",
+		"/opt/lampp/htdocs/syg/app/Users/Views/css/main.less",
+		"/opt/lampp/htdocs/syg/app/Users/Views/js/main.js",
+		"/opt/lampp/htdocs/syg/app/Users/Views/main.tpl",
+		"/opt/lampp/htdocs/syg/app/Home/Views/js/main.js",
+		"/opt/lampp/htdocs/syg/app/Home/Views/css/main.less",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Controller/DemoController.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Controller/SarasaController.php",
+		"/home/joaco/.config/sublime-text-2/Packages/Aftersave/Aftersave.py",
+		"/home/joaco/.config/sublime-text-2/Packages/sublime-smarty/Syntaxes/Smarty.JSON-tmLanguage",
+		"/home/joaco/.config/sublime-text-2/Packages/User/JavaScript/uglify.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/JavaScript/jquery-self-invoking-anonymous-function.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/Aftersave/packages.json",
+		"/home/joaco/.config/sublime-text-2/Packages/Less2Css/less2css.py",
+		"/home/joaco/.config/sublime-text-2/Packages/Uglify/Aftersave.py",
+		"/home/joaco/.config/sublime-text-2/Packages/Uglify/uglify.py",
+		"/opt/lampp/htdocs/syg/config.json",
+		"/opt/lampp/htdocs/syg/app/main.less",
+		"/opt/lampp/htdocs/syg/app/home/controllers/main.php",
+		"/opt/lampp/htdocs/syg/app/home/templates/main.tpl",
+		"/opt/lampp/htdocs/syg/app/Consejos/Entity/Consejo.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/models/Encuesta.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Controller/SecuredController.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/DemoBundle/Controller/WelcomeController.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/TaskBundle/Entity/Task.php",
+		"/opt/lampp/htdocs/Symfony/src/Acme/TaskBundle/Controller/DefaultController.php",
+		"/opt/lampp/htdocs/Symfony/composer.json",
+		"/opt/lampp/htdocs/syg/app/sarasa/templates/500.tpl",
+		"/opt/lampp/htdocs/syg/app/sarasa/templates/404.tpl",
+		"/opt/lampp/htdocs/Sarasa/config.json",
+		"/opt/lampp/htdocs/Sarasa/.gitignore",
+		"/opt/lampp/htdocs/Sarasa/cli-config.php",
+		"/opt/lampp/etc/extra/httpd-vhosts.conf",
+		"/home/joaco/.bashrc",
+		"/home/joaco/bin/vhost/vhost.php",
+		"/home/joaco/bin/adddomain/adddomain.php",
+		"/opt/lampp/htdocs/Sarasa/vendor/sarasa/core/models/Sarasa/Core/SarasaCommand.php",
+		"/opt/lampp/htdocs/Sarasa/vendor/sarasa/core/composer.json",
+		"/opt/lampp/htdocs/Sarasa/composer.json",
+		"/home/joaco/Programas/z/z.sh",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/gpl.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/PHP/ajax-response-function.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/JavaScript/self-invoking-anonymous-function.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/JavaScript/ajax-set-parameters.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/User/HTML/template.sublime-snippet",
+		"/home/joaco/.config/sublime-text-2/Packages/Gist/Gist.sublime-settings",
+		"/opt/lampp/htdocs/Sarasa.old/composer.json",
+		"/opt/lampp/htdocs/Sarasa.old/config.json",
+		"/opt/lampp/htdocs/Sarasa/vendor/composer/installed.json",
+		"/home/joaco/Proyectos/Sublime/sarasa.sublime-project",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/vendor/sarasa/core/models/Sarasa/Core/FrontController.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/app/home/controllers/categoria.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/models/Nota.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/public/.htaccess",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/vendor/sarasa/core/models/Sarasa/Core/Template.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/config.json",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/public/index.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/vendor/smarty/smarty/distribution/libs/sysplugins/smarty_internal_templatebase.php",
+		"/tmp/fz3temp-1/FrontController.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/vendor/sarasa/core/views/_debugbar.tpl",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/app/estructura.tpl",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/public/js/main.js",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/app/sarasa/controllers/debugger.php",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/app/sarasa/templates/debugger.tpl",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/logs/dev/a5/68/1495031949.json",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/app/layout.tpl",
+		"/opt/lampp/htdocs/FSN/laseleccion.com.mx/public/js/encuestas/admin.main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	",
+			"~",
+			"DEPENDENCY_PATH",
+			"loading repositories",
+			"description",
+			"on_done",
+			"show_quick_paneli",
+			"show_overlay",
+			"httpshandler",
+			"urllib2",
+			"urllib\nurllib",
+			"urllib\n",
+			"self",
+			"install package",
+			"false",
+			"tipo\": \"r",
+			"gravados",
+			"medimet",
+			"serviciopertenencia",
+			"tipo",
+			"Tipo",
+			"tipo",
+			"Tipo",
+			"tipo",
+			"consejolocal",
+			"ConsejoLocal",
+			"consejolocal",
+			"$em->flush();",
+			"prestador",
+			"fechacontrato",
+			"debitosmensua",
+			"fechaalta",
+			"json->periodohasta",
+			"fechaalta",
+			"fechamodificacion",
+			"scale=6, precision=2",
+			"00",
+			"0.00",
+			".00",
+			"00",
+			"0.00",
+			".00",
+			"prestadores",
+			"establecimiento",
+			"a",
+			"email",
+			"hello",
+			",\n		\"action\"    : \"index\"",
+			"login",
+			"Users",
+			",\n	\"login\": {\n		\"url\"       : \"\",\n		\"bundle\"    : \"Users\",\n		\"controller\": \"login\",\n		\"action\"    : \"index\"\n	}",
+			"main",
+			"Aftersave",
+			"Admin",
+			"admin",
+			"Admin",
+			"form",
+			"view",
+			"return",
+			"edit",
+			"EventDump",
+			"Password",
+			"controller",
+			"  ",
+			"padding",
+			"fixed",
+			"../assets",
+			"Bombonaçao",
+			"estructura",
+			"dbpass",
+			"dbuser",
+			"www.",
+			", true)",
+			" = null",
+			"tpl",
+			"allowedips",
+			"head",
+			"false",
+			"head",
+			"query",
+			"ol",
+			"ul",
+			"admin_item_container",
+			"tasks",
+			"false",
+			"ruta_",
+			"cog",
+			"index",
+			"controller",
+			"hdd",
+			"bundle",
+			"time",
+			"clock",
+			"inline",
+			"inline\ninline",
+			"private",
+			"log",
+			"sarasa",
+			"encuesta",
+			".focus()",
+			"nuevaencuesta",
+			"Encuestas",
+			"encuesta",
+			"encuestas",
+			"_SESSION['admin']",
+			"this->getEntityManager()",
+			"email",
+			"a",
+			"email",
+			"text",
+			"d=\"logout\">\n		<img src=\"/img/icons24/logout.png\"><br>\n		Logout\n	</li>",
+			"json",
+			"PostType",
+			"Nota",
+			"postType",
+			"PostType",
+			"postType",
+			"post_type",
+			"www",
+			"m",
+			"FrontController::config('deploybranch')",
+			"deploybranch",
+			"this",
+			"true",
+			"false",
+			"category",
+			"category->getTerm()",
+			"categoriasarasa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	\n",
+			"html,\nbutton,\ninput,\nselect,\ntextarea {",
+			"{\n",
+			"html,\nbutton,\ninput,\nselect,\ntextarea {"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PHP/ajax-response-function.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": true,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"factur",
+				"app/Facturas/Entity/Factura.php"
+			],
+			[
+				"librami",
+				"app/Libramientos/Entity/Libramiento.php"
+			],
+			[
+				"lay",
+				"app/layout.tpl"
+			],
+			[
+				"fcontrol",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"rout",
+				"routing.json"
+			],
+			[
+				"prestador",
+				"app/Prestaciones/Entity/Prestador.php"
+			],
+			[
+				"libra",
+				"app/Libramientos/Entity/Libramiento.php"
+			],
+			[
+				"front",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"frontco",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"indexphp",
+				"public/index.php"
+			],
+			[
+				"cli",
+				"cli-config.php"
+			],
+			[
+				"user",
+				"app/Users/Entity/User.php"
+			],
+			[
+				"hometpl",
+				"app/Home/Views/main.tpl"
+			],
+			[
+				"mainco",
+				"app/Sarasa/Models/MainController.php"
+			],
+			[
+				"mainjs",
+				"app/main.js"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"layo",
+				"app/layout.tpl"
+			],
+			[
+				"templa",
+				"vendor/sarasa/core/models/Sarasa/Core/Template.php"
+			],
+			[
+				"logintpl",
+				"app/Users/Views/login.tpl"
+			],
+			[
+				"usersloginjs",
+				"app/Users/Views/js/login.js"
+			],
+			[
+				"loginph",
+				"app/Users/Controllers/login.php"
+			],
+			[
+				"maincss",
+				"public/css/Home/main.css"
+			],
+			[
+				"mainless",
+				"app/Home/Views/css/main.less"
+			],
+			[
+				"templat",
+				"vendor/sarasa/core/models/Sarasa/Core/Template.php"
+			],
+			[
+				"maintpl",
+				"app/Home/Views/main.tpl"
+			],
+			[
+				"template",
+				"vendor/sarasa/core/models/Sarasa/Core/Template.php"
+			],
+			[
+				"confi",
+				"config.json"
+			],
+			[
+				"homemaintpl",
+				"app/home/templates/main.tpl"
+			],
+			[
+				"config",
+				"config.json"
+			],
+			[
+				"layou",
+				"app/layout.tpl"
+			],
+			[
+				"500",
+				"app/sarasa/templates/500.tpl"
+			],
+			[
+				"404",
+				"app/sarasa/templates/404.tpl"
+			],
+			[
+				"htacces",
+				"public/.htaccess"
+			],
+			[
+				"nota",
+				"models/Nota.php"
+			],
+			[
+				"categoria",
+				"app/home/controllers/categoria.php"
+			],
+			[
+				"smartyinternaltemplatebase",
+				"vendor/smarty/smarty/distribution/libs/sysplugins/smarty_internal_templatebase.php"
+			],
+			[
+				"i",
+				"public/index.php"
+			],
+			[
+				"templ",
+				"vendor/sarasa/core/models/Sarasa/Core/Template.php"
+			],
+			[
+				"estruct",
+				"app/estructura.tpl"
+			],
+			[
+				"conf",
+				"config.json"
+			],
+			[
+				"fronc",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"encuestadminphp",
+				"app/encuestas/controllers/admin.main.php"
+			],
+			[
+				"encuesta_page",
+				"app/encuestas/templates/admin.main_page.tpl"
+			],
+			[
+				"encuestaadminmainjs",
+				"public/js/encuestas/admin.main.js"
+			],
+			[
+				"debuggerpp",
+				"app/sarasa/controllers/debugger.php"
+			],
+			[
+				"admin.main.les",
+				"app/admin.main.less"
+			],
+			[
+				"rou",
+				"routing.json"
+			],
+			[
+				"froc",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"estruc",
+				"app/estructura.tpl"
+			],
+			[
+				"frontcon",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"vendorcompo",
+				"vendor/sarasa/composer.json"
+			],
+			[
+				"frontc",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"encuesadminphp",
+				"app/encuestas/controllers/admin.main.php"
+			],
+			[
+				"encuesadminjs",
+				"public/js/encuestas/admin.main.js"
+			],
+			[
+				"encuesadminpp",
+				"app/encuestas/templates/admin.main_page.tpl"
+			],
+			[
+				"admin",
+				"models/Admin.php"
+			],
+			[
+				"adminamnsphp",
+				"app/home/controllers/admin.admins.php"
+			],
+			[
+				"encuestajs",
+				"public/js/encuestas/admin.main.js"
+			],
+			[
+				"encuestadmintpl",
+				"app/encuestas/templates/admin.main.tpl"
+			],
+			[
+				"encuestaadmintpl",
+				"app/encuestas/templates/admin.main.tpl"
+			],
+			[
+				"encuestaadminless",
+				"app/encuestas/templates/css/admin.main.less"
+			],
+			[
+				"mainhometpl",
+				"app/home/templates/admin.home.tpl"
+			],
+			[
+				"_page",
+				"app/encuestas/templates/admin.main_page.tpl"
+			],
+			[
+				"adminadmins",
+				"app/home/controllers/admin.admins.php"
+			],
+			[
+				"encuestadminmainphp",
+				"app/encuestas/controllers/admin.main.php"
+			],
+			[
+				"encuestaadminmainless",
+				"app/encuestas/templates/css/admin.main.less"
+			],
+			[
+				"admin.main_p",
+				"app/encuestas/templates/admin.main_page.tpl"
+			],
+			[
+				"encuesadminmaintpl",
+				"app/encuestas/templates/admin.main.tpl"
+			],
+			[
+				"adminadmintpl",
+				"app/home/templates/admin.admins.tpl"
+			],
+			[
+				"adminadminsphp",
+				"app/home/controllers/admin.admins.php"
+			],
+			[
+				"encuestaadminmanphp",
+				"app/encuestas/controllers/admin.main.php"
+			],
+			[
+				"lang",
+				"vendor/sarasa/core/models/Sarasa/Core/Lang.php"
+			],
+			[
+				"inde",
+				"public/index.php"
+			],
+			[
+				"adminlogintpl",
+				"app/home/templates/admin.login.tpl"
+			],
+			[
+				"noticiphp",
+				"app/home/controllers/noticia.php"
+			],
+			[
+				"adminhomepp",
+				"app/home/controllers/admin.home.php"
+			],
+			[
+				"adminhomeless",
+				"app/home/templates/css/admin.home.less"
+			],
+			[
+				"adminhomejs",
+				"public/js/home/admin.home.js"
+			],
+			[
+				"encuestaadminjs",
+				"public/js/encuestas/admin.main.js"
+			],
+			[
+				"estructu",
+				"app/estructura.tpl"
+			],
+			[
+				"adminhometpl",
+				"app/home/templates/admin.home.tpl"
+			],
+			[
+				"adminlogin",
+				"app/home/controllers/admin.login.php"
+			],
+			[
+				"adminhomephp",
+				"app/home/controllers/admin.home.php"
+			],
+			[
+				"fron",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"headle",
+				"app/home/templates/_headlinenota.tpl"
+			],
+			[
+				"noticiatpl",
+				"app/home/templates/noticia.tpl"
+			],
+			[
+				"3co",
+				"app/home/templates/_3columnnota.tpl"
+			],
+			[
+				"headl",
+				"app/home/templates/_headlinenota.tpl"
+			],
+			[
+				"2col",
+				"app/home/templates/_2columnnota.tpl"
+			],
+			[
+				"encuestaadminmph",
+				"app/encuestas/controllers/admin.main.php"
+			],
+			[
+				"changes",
+				"changes.sql"
+			],
+			[
+				"tasks",
+				"app/tasks/controllers/main.php"
+			],
+			[
+				"countco",
+				"crons/countcomments.php"
+			],
+			[
+				"fronco",
+				"vendor/sarasa/core/models/Sarasa/Core/FrontController.php"
+			],
+			[
+				"count",
+				"crons/countcomments.php"
+			],
+			[
+				"2c",
+				"app/home/templates/_2columnnota.tpl"
+			],
+			[
+				".hta",
+				"public/.htaccess"
+			],
+			[
+				"cate",
+				"app/home/controllers/categoria.php"
+			],
+			[
+				"taxo",
+				"models/Taxonomy.php"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"taxon",
+				"models/Taxonomy.php"
+			],
+			[
+				"header",
+				"app/_header.tpl"
+			],
+			[
+				"categ",
+				"app/home/controllers/categoria.php"
+			],
+			[
+				"app/500",
+				"app/500.tpl"
+			],
+			[
+				"categor",
+				"app/home/controllers/categoria.php"
+			],
+			[
+				"term",
+				"models/Term.php"
+			],
+			[
+				"taxono",
+				"models/Taxonomy.php"
+			],
+			[
+				"he",
+				"app/_header.tpl"
+			],
+			[
+				"_cat",
+				"app/_category.tpl"
+			],
+			[
+				"_cate",
+				"app/_category.tpl"
+			],
+			[
+				"homemainphp",
+				"app/home/controllers/main.php"
+			],
+			[
+				"headlineno",
+				"app/home/templates/_headlinenota.tpl"
+			],
+			[
+				"heade",
+				"app/_header.tpl"
+			],
+			[
+				"tax",
+				"models/Taxonomy.php"
+			],
+			[
+				"ter",
+				"models/Term.php"
+			],
+			[
+				"layt",
+				"app/layout.tpl"
+			],
+			[
+				"partido",
+				"models/Partido.php"
+			],
+			[
+				"sidebarenc",
+				"app/sidebars/boxes/_box_encuesta.tpl"
+			],
+			[
+				"_widget",
+				"app/encuestas/templates/_widget.tpl"
+			],
+			[
+				"sidebar",
+				"app/sidebars/_sidebar_default.tpl"
+			],
+			[
+				"confij",
+				"config.json"
+			],
+			[
+				"indeph",
+				"public/index.php"
+			],
+			[
+				"mainles",
+				"app/main.less"
+			],
+			[
+				"confjs",
+				"config.json"
+			],
+			[
+				"ajaxre",
+				"vendor/sarasa/core/models/Sarasa/Core/AjaxResponse.php"
+			],
+			[
+				"admin.logijs",
+				"public/js/home/admin.login.js"
+			],
+			[
+				"adminloginphp",
+				"app/home/controllers/admin.login.php"
+			],
+			[
+				"manless",
+				"app/main.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"mx",
+				"/opt/lampp/htdocs/FSN/laselemx.sublime-project"
+			],
+			[
+				"sy",
+				"/home/joaco/Proyectos/Sublime/syg.sublime-project"
+			],
+			[
+				"recur",
+				"/home/joaco/Proyectos/Sublime/recursosfsn.sublime-project"
+			],
+			[
+				"sara",
+				"/home/joaco/Proyectos/Sublime/sarasa.sublime-project"
+			],
+			[
+				"sar",
+				"/home/joaco/Proyectos/Sublime/sarasa.sublime-project"
+			],
+			[
+				"",
+				"/opt/lampp/htdocs/FSN/laselemx.sublime-project"
+			],
+			[
+				"sa",
+				"/home/joaco/Proyectos/Sublime/sarasa.sublime-project"
+			],
+			[
+				"las",
+				"/opt/lampp/htdocs/FSN/laselemx.sublime-project"
+			],
+			[
+				"saras",
+				"/home/joaco/Proyectos/Sublime/sarasa.sublime-project"
+			],
+			[
+				"sarasa",
+				"/opt/lampp/htdocs/Sarasa/sarasa.sublime-project"
+			],
+			[
+				"bola",
+				"/opt/lampp/htdocs/bolavip/bolavip.sublime-project"
+			],
+			[
+				"ani",
+				"/opt/lampp/htdocs/Anillo/anillofsn.sublime-project"
+			],
+			[
+				"bol",
+				"/opt/lampp/htdocs/bolavip/bolavip.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}

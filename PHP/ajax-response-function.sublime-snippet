@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-public function ${1:functionName}(&\$objResponse,\$parameters) {
+public function ${1:functionName}(&\$objResponse, \$parameters)
+{
 	${2:// code...}
 }
 ]]></content>

@@ -12,7 +12,7 @@ use Doctrine\ORM\EntityRepository;
 class User
 {
 
-	/**
+    /**
      * @Id @GeneratedValue @Column(type="integer")
      * @var int
      **/
@@ -186,8 +186,9 @@ class UserRepository extends EntityRepository
     }
 
 }
+
 ]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>userclass</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->

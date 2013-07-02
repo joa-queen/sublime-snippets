@@ -11,14 +11,15 @@ use Doctrine\ORM\Mapping;
  **/
 class ${3:ClassName}
 {
-	/**
+    /**
      * @Id @GeneratedValue @Column(type="integer")
      * @var int
      **/
     protected \$id;
     
-	${4:// code...}
+    ${4:// code...}
 }
+
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>saclass</tabTrigger>
